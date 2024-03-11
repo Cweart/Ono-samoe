@@ -1,1 +1,1 @@
-https://github.com/Cweart/Ono-samoe.git
+https://github.com/Cweart/Ono-samoe
